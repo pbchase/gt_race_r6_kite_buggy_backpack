@@ -1,0 +1,13 @@
+# Introduction
+
+This is a book a guide for building a backpack for the GT-Race R6 kite buggy designed and built by Martin Faber (see http://www.gt-race.nl/). While Martin designs and builds the buggy, the backpack is designed by Philip Chase and Errol Hartbarger.
+
+![Right rear view of the backpack loaded with gear](images/backpack_right_rear_view_loaded.jpg){fig-alt="right rear view of backpack loaded with gear" fig-align="center"}
+
+The backpack is designed to provide both gear storage and accommodations for a three liter water bladder. It incorporates simple folded flap closures to provide easy access while minimize dirt and water intrusion. It also provide a dirt-out feature on each of its two pouches to allow send to fall away from the stored gear and be easily removed. A large pouch the full width of backplate of the buggy holds the water bladder while providing ample additional room for a gear. A smaller pouch attached to the back of the main pouch is large enough to hold a small cell phone.
+
+![Hose and bite valve magnetically affixed to the buggy frame](images/backpack_hose.jpg){fig-align="center"}
+
+```{=html}
+ <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Feel free to use these plans to build your own backpack.
+```
