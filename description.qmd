@@ -14,7 +14,7 @@ Above the mesh floor is the main storage area of the backpack. This area holds a
 
 The upper portion of the tube is folded down to form a flap closure for the backpack. The flap is tri-folded, then folded down and clip to an adjustable strap attached to the rear axle.
 
-![Flap closure of the backpack](images/backpack_rear_view.jpg){fig-alt="Flap closure of the backpack" fig-align="center"}
+![Flap closure of the backpack](images/backpack_rear_view.jpg){#fig-flap-closure-of-the-backpack fig-alt="Flap closure of the backpack" fig-align="center"}
 
 ## Hose routing
 
@@ -28,4 +28,14 @@ The free end of the hose needs to be readily available to the pilot. Osprey's bl
 
 ## Supporting the backpack
 
+The backpack is hung from via a single strap at the top center of the buggy's back-plate. This strap pierces the top seam of the backpack and directly supports the weight of the water bladder. A loop of webbing passes through slide opening of the bladder. The loop is pinned in place by a dogbone.
+
+![A dogbone holds a loop of webbing in place to hold support the bladder](images/dogbone.jpg){fig-alt="A dogbone holds a loop of webbing in place to hold support the bladder" fig-align="center"}
+
+The body of the backpack is held down and stabilized laterally by a pair of straps sewn to the underside that girth the buggy backplate and are cinched down tight to it. One strap is high on the backplate while the other is very low.
+
+![Girth straps on the underside of the backpack](images/girth_straps.jpg){fig-alt="Girth straps on the underside of the backpack" fig-align="center"}
+
 ## Phone pouch
+
+The backpack has a much smaller pouch suitable for a phone affixed to the back of the backpack. The pouch has the same structure as main pouch with the tubular body, the full width hook-and-loop closure, the mesh false floor and the flap closure. The phone pouch is affixed just below the fold of the main pouch. It is largely covered by the flap of the main pouch as shown in @fig-flap-closure-of-the-backpack
