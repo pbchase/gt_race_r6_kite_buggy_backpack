@@ -1,3 +1,78 @@
 ---
 title: "Phone Pouch"
 ---
+
+![](images/phone-pouch-closed.jpg){#fig-phone-pouch-closed fig-alt="The phone pouch"}
+
+The phone pouch needs to be big enough to hold a large phone, but it also needs to be wide enough to accommodate a man's hand to allow the phone to be extracted from the back. This pouch is designed for a phone 18 x 10 x 2 cm. A 30 cm circumference should accommodate most male hands.
+
+Build the body of the water proof canvas. The prototype version of the phone pouch and backpack are made from **Ottertex® Waterproof Canvas.** **Ottertex®** is easy to mark with pencil on the back side. It is about impossible to mark on the face. I general affix blue tape to the face to when I need a mark.
+
+## Parts
+
+Cut two panels of canvas as shown in @fig-phone-pouch-main-panel The astute reader will note that the details of the height on the left don't match the dimensions on the right. Whatever! Until proven otherwise, cut the fabric 37 cm high, mark the seam of for the mesh 11 cm above the unfinished bottom, and mark the folder line 13 cm below the unfinished top.
+
+![Phone pouch main panel - cut 2 pieces from canvas](images/phone_pouch_main_panel.jpg){#fig-phone-pouch-main-panel fig-alt="Phone pouch main panel - cut 2 pieces from from Ottertex" fig-align="center"}
+
+Also cut these small parts from sewable 2.5 cm-wide hook-and-loop closure strips
+
+-   Dirt-out closure: a matched pair of strips 15 cm long
+
+-   Tri-fold closure: a matched pair of strips 3 cm long
+
+-   Flap closure: one fuzzy strip 9 cm long, one hooked strip 14 cm long
+
+Also cut these parts
+
+-   Dirt-out flap: cut a single 8 x 15 cm panel from ripstop nylon
+
+-   Mesh floor: cut 2 panels 11 x 14 cm from any durable mesh fabric
+
+## Assembly
+
+### Both panels
+
+1.  Mark a stitch line on the backside of each pouch panel 11 cm up from the bottom of the unfinished edge.
+2.  From a 1 cm square from each corner of each pouch panel.
+3.  Fold and stitch a 1 cm hem on all four edges of the each pouch panel.
+4.  Sew a mesh panel to the backside of each pouch panel along the aforementioned stitch line. Trim the excess mesh from the left and right edges.
+
+### Bottom panel
+
+1.  Align the 8 x 15 cm nylon dirt-out panel to one long edge of a 15cm strip of hook-and-loop. Overlap the panels about 5mm. Lightly tack the pieces together.
+2.  Align to the other edge of the hook-and-loop with the lower hem, centering the hook-and-loop on the pouch panel. Stitch all edges of the hook-and-loop.
+3.  At the center of the top edge, on the face, overlap about 2 cm of the 14 cm long hook strip on top of the face. Orient the hook strip hook-side down. Stitch all four edges of the 2 cm over overlap. See @fig-phone-pouch-upper-bottom-panel-detail
+4.  Orient the bottom panel face up, and top edge up. On the top left corner, orient a 3cm loop strip vertically, fuzzy side out. Stitch all four edges to the loop strip. See @fig-phone-pouch-upper-bottom-panel-detail
+
+![Bottom panel detail at top](images/phone-pouch-upper-bottom-panel-detail.jpg){#fig-phone-pouch-upper-bottom-panel-detail fig-alt="Bottom panel detail at top" fig-align="center"}
+
+### Top panel
+
+1.  Align a 15 cm piece of hook-and-loop closure with the lower hem, centering the hook-and-loop on the pouch panel. Stitch all edges of the hook-and-loop.
+2.  Orient the top panel face up, top up. At the top left corner of the panel, orient the 3 cm hook strip, hook side up as shown in @fig-phone-pouch-upper-top-panel-detail Stitch all four edges of the loop strip.
+3.  Orient the top panel face up, top up. At the bottom center of the panel, orient the 9 cm loop strip vertically, fuzzy side up, with one end aligned with the bottom edge. Stitch all four edges of the loop strip.
+
+![Top panel detail at top](images/phone-pouch-upper-top-panel-detail.jpg){#fig-phone-pouch-upper-top-panel-detail fig-alt="Top panel detail at top"}
+
+![Top panel detail at bottom](images/phone-pouch-lower-top-panel-detail.jpg){#fig-phone-pouch-lower-top-panel-detail fig-alt="Top panel detail at bottom"}
+
+### Assemble the panels
+
+1.  Align the backsides of the pouch panels
+2.  On the left and right edges, stitch from the top edge the mesh seam line.
+3.  Fold the pouch panels back to expose the two mesh panels.
+4.  If needed, apply a 6cm strip of blue tape the mesh to stabilize its shape.
+5.  Mark a curving line on the mesh/blue tape as shown in @fig-joining-the-mesh-panels the bottom of the line should be about 6 cm below the stitch line that joins the mesh to the pouch panel.
+6.  Stitch along the marked line.
+
+![Joining the mesh panels](images/joining-the-mesh-panels.jpg){#fig-joining-the-mesh-panels fig-alt="Joining the mesh panels" fig-align="center"}
+
+7.  Peel away the blue tape from both side of the stitch line.
+8.  Trim off the excess mesh beyond the stitch line.
+9.  Triple-zig-zag stitch the remaining hem of mesh.
+10. Fold the front and back pouch panels together again.
+11. Stitch each side from the top of the mesh to the bottom to fully close the sides.
+
+Most of the details of the construction are visible in the completed phone pouch shown in @fig-phone-pouch-open
+
+![Fully opened phone pouch](images/phone-pouch-open.jpg){#fig-phone-pouch-open fig-alt="Fully opened phone pouch" fig-align="center"}
