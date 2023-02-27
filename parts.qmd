@@ -1,0 +1,51 @@
+---
+title: "Parts"
+---
+
+The main pouch covers the width of the buggy's backplate and the height from the top of the plastic plate nearly to the rear axle. The body is constructed 3 panels of **Ottertex® Waterproof Canvas.** The panels need to fit a small GT-Race R6 buggy are shown in @fig-backpack-main-panels. Cut one of each of these panels.
+
+![Backpack main panels](images/backpack-main-panels.jpg){#fig-backpack-main-panels fig-alt="Backpack main panels" fig-align="center"}
+
+## Mesh floor
+
+The backpack requires two 44 x 14 cm mesh panels as shown in @fig-backpack-mesh-panel to form the mesh floor of the main pouch.
+
+![Backpack mesh panels - two pieces are required](images/backpack-mesh-panel.jpg){#fig-backpack-mesh-panel fig-alt="Backpack mesh panels - two pieces are required" fig-align="center"}
+
+## Hose exits
+
+The hose exits require four 7 cm x 8 cm panels of ripstop nylon, two pieces of 1mm cord 26 cm long, and two cord locks as shown in @fig-hose-exit-components
+
+![Hose exit components](images/hose-exit-components.jpg){#fig-hose-exit-components fig-alt="Hose exit components" fig-align="center"}
+
+## Fittings
+
+Cut these parts from 5/8" (15mm) Bluewater climb-spec tubular webbing
+
+-   \(1\) 25 cm for connect a plastic side-release buckle to the flap closure
+
+-   \(1\) 35 cm for the center hanger
+
+-   \(1\) 105 cm for lower girth strap
+
+-   \(1\) 120 cm for upper girth strap
+
+-   \(1\) 60 cm to connect the lower clip of the plastic side-release buckle to the rear axle
+
+Also cut these small parts from sewable 2.5 cm-wide hook-and-loop closure strips
+
+-   Dirt-out closure: a matched pair of strips 38 cm long
+
+-   Tri-fold closure: a matched pair of strips 5 cm long
+
+Purchase six 3 mm x 15 mm marine grade welded stainless-steel rings: Two for each girth strap and two for the center hanger.
+
+Purchase one plastic side-release buckle for 2 cm strap.
+
+Cut 20 cm of 1mm line to thread the center hanger into the top of the bladder.
+
+Cut a dirt-out flap of 38 x 8 cm panel from brightly-colored ripstop nylon.
+
+Make a custom dogbone to connect the bladder to the loop of the center hanger. Turn the wood according to @fig-dogbone-diagram Sand the whole piece but pay special attention the tapered end and the cylindrical 8mm diameter section. That will assure the dogbone can slide in and back out with ease.
+
+![Diagram of dogbone](images/dogbone-diagram.jpg){#fig-dogbone-diagram}

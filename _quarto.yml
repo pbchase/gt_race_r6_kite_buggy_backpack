@@ -10,7 +10,7 @@ book:
     - intro.qmd
     - description.qmd
     - phone_pouch.qmd
-    - components.qmd
+    - parts.qmd
     - assembly.qmd
     - summary.qmd
     - references.qmd
