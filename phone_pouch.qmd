@@ -75,4 +75,6 @@ Also cut these parts
 
 Most of the details of the construction are visible in the completed phone pouch shown in @fig-phone-pouch-open
 
+Mark the flap closure's fold line 12 cm below the upper finished edge of the pouch. Crease this line with a warm iron. Fold each corner of the flap closure and crease it with a warm iron as shown in @fig-phone-pouch-open The hook-and-loop tabs should align when the corners are folded.
+
 ![Fully opened phone pouch](images/phone-pouch-open.jpg){#fig-phone-pouch-open fig-alt="Fully opened phone pouch" fig-align="center"}

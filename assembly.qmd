@@ -1,3 +1,89 @@
 ---
 title: "Assembly"
 ---
+
+## Back panel
+
+To assemble the back panel of the backpack start by sewing the center hanger assembly. Use the 35 cm segment of 15mm webbing and two 15m stainless welded rings. Assemble them as shown in @fig-center-hanger-assembly.
+
+![Center hanger assembly](images/center-hanger-assembly.jpg){#fig-center-hanger-assembly fig-alt="Center hanger assembly" fig-align="center"}
+
+Then prepare the hose exits for assembly by putting a 1 cm hem in the left and right edges of each of the four hose exit panels as shown in @fig-hemmed-hose-exit-panel.
+
+![Hemmed hose exit panel](images/hemmed-hose-exit-panel.png){#fig-hemmed-hose-exit-panel fig-alt="Hemmed hose exit panel" fig-align="center" width="200"}
+
+On the top of the lower back panel and the bottom of the upper back panel, mark the vertical center line of each panel. Also mark 12.5 cm left and right of each panel. The 12.5cm mark will be the outer edge of each the tube exit. It's easiest to mark the backside of the fabric, but you'll need to see the 12.cm mark on the face of the fabric.
+
+With one of the back panels face up, align a hose exit panel with the outer edge mark as shown in @fig-hose-exit-assembly Stitch the hose exit panel to the back panel with a 1 cm straight-stitch hem. Be sure to be sure top back-stitch this seam. Stitch the hemmed edge with a zig-zag stitch. Repeat this these steps with the other hose exit on this back panel. Repeat the process with the other back panel.
+
+![Hose exit assembly to back panel](images/hose-exit-assembly.jpg){#fig-hose-exit-assembly fig-alt="Hose exit assembly to backpanel"}
+
+With the lower back panel face up, align the center hanger along the center line of the lower back panel. 2.5 cm of looped end of the center hanger should protrude beyond the edge the back panel. See @fig-attach-the-center-hanger for more detail. Sew the center hanger to the back panel 1 cm inboard of the back panel edge.
+
+![Attach the center hanger to the face of the lower back panel](images/attach-the-center-hanger.jpg){#fig-attach-the-center-hanger fig-alt="Attach the center hanger to the face of the lower back panel" fig-align="center"}
+
+Align the two back panels, face-to-face along the edge where the hose exist are attached. The hose exit panels should be hidden and aligned in two pairs. Sew a 1 cm straight-stitch hem to join the panels, but *do not* stitch across the hose exits. It's OK to put one stitch on the hose exits, but stitching more than 3mm will narrow the opening. Also be sure to back-stitch left and right of the hose exits.
+
+![Back panel upper seam assembly](images/back-panel-upper-seam.jpg){#fig-back-panel-upper-seam fig-alt="Back panel upper seam assembly" fig-align="center"}
+
+Now fold the back panels together to expose the tube panels. Fold 2 cm of top one one hose exit panel towards its mate. Sew a straight-stitch hem at the bottom of the fold. Repeat this step with each of the other 3 hose exit panels. Make sure to stitch them *separately*, not to each other. These will form a pocket for a draw string.
+
+Mark the middle of a 20 cm long 1mm cord. Thread the ends through the pockets you just made in the hose exit panels. Thread towards the middle of the back panel. Align the mid-line mark of the cord with the outer edge of the hose exit panels. Sew the outer edge of the hose exit panel from the joined back panels all the way to the top of the hose exit panels joining the panels and pinning the 1mm cord in one stitch line.
+
+Stitch the in-board side of the hose exit panels from the joined back panels, but the lift the cord high in the pockets and stop just shy of the cord. Do *not* stitch the cord on this side. Each cord should function like a draw string to close the tube exit tightly.
+
+![Finish hose exits](images/finish-hose-exits.jpg){#fig-finish-hose-exits fig-alt="Finish hose exits" fig-align="center"}
+
+With the sewing of the hose exists complete, thread each pair of cord ends through a cord lock. Tie the end of each pair with an over-hand knot to retain the cord lock.
+
+Trim a 1 cm square from each corner of the back panel assembly. Fold and hem all of the back panel edges.
+
+Align the 38 cm hook strip to the bottom edge of the back panel, center it and sew all four edges to the back panel.
+
+Mark the backside of the back panel 11 cm above the bottom edge. Attach one of the mesh panels to the along that marked line with a 1 cm hem above the marked line.
+
+To attach the girth straps to the back panel, mark the face of the back panel at 6 cm and 32 cm below the upper seam. Still on the face, mark the vertical center line of the back panel. Also measure about 10 cm from the vertical center line. Mark the center line on the 120 cm upper girth strap. Align the center line of the upper girth strap with center line of the back panel along the 6 cm mark. Stitch the central 20 cm of the strap to the back panel with a zig-zag stitch. Repeat this process with the 105 cm for lower girth strap along the 32 cm mark. See @fig-attach-the-girth-straps for more detail.
+
+![Attach the girth straps to the lower back panel face](images/attach-the-girth-straps.jpg){#fig-attach-the-girth-straps fig-alt="Attach the girth straps to the lower back panel face"}
+
+Attach a pair of 15mm welded stainless steel rings to one end of each girth strip. Pass 2 cm of strap through the pair of rings and stitch the end to the strap with a 6 straight stitch passes.
+
+The back panel's flap closure requires two more pieces that require tricky alignment. Spread out the back panel face up placing the flap closure closest to you. Mark the diagonal construction lines shown in @fig-align-the-flap-closure-fittings. Thread one half of the plastic side-release buckle onto the 25cm piece of webbing. Use the diagonal construction lines to position the webbing on the panel. Stitch the webbing to the panel with a zig-zag stitch. Use the construction lines to position the 5cm hook strip. Stitch all four edges of the 5cm hook strip.
+
+![Align the flap closure fittings](images/align-the-flap-closure-fittings.jpg){#fig-align-the-flap-closure-fittings fig-alt="Align the flap closure fittings" fig-align="center"}
+
+## Front panel
+
+The construct the front panel, start by trimming a 1 cm square from each corner of the front panel and adding a 1 cm hem to each edge.
+
+Sew a 5cm loop strip to the top left corner of front panel. Orient the strip horizontally as shown in @fig-loop-strip-front-panel
+
+![Loop strip on the top left of the front panel](images/loop-strip-front-panel.jpg){#fig-loop-strip-front-panel fig-alt="Loop strip on the top left of the front panel" fig-align="center" width="400"}
+
+Align the 38 cm loop strip with the long edge of the 38 x 8 cm panel of ripstop nylon. Overlap the ripstop with 1 cm of the loop strip. Sew them together with a straight stitch.
+
+Align the edge of the 38 cm loop strip to the bottom edge of the front panel, center it and sew all four edges of the loop strip to the back panel.
+
+Mark the backside of the front panel 11 cm above the bottom edge. Attach one of the mesh panels to the along that marked line with a 1 cm hem above the marked line.
+
+![Backpack lower interior detail. The back panel of the prototype is shown here. The design has since evolved moving the dirt-out flap to the front panel, but the position of the mesh and hook strip are correct.](images/backpack-lower-interior-detail.jpg){#fig-backpack-lower-interior-detail fig-alt="Backpack lower interior detail. The back panel of the prototype is shown here. The design has since evolved moving the dirtout flap to the front panel, but the position of the mesh and hook strip are correct" fig-align="center"}
+
+Mark the face of the front panel 31 cm below the upper finished edge to denote where the main pouch will be folded. Mark the vertical center line of the face of the front panel. Align the top of the closed phone pouch with 31 cm mark centering it on the face of the front panel. As shown in Sew the left and right edges of the phone pouch to the face of the main pouch front panel. Tack the seam at the upper left and right corners.
+
+![Phone pouch attached to the backpack](images/phone-pouch-position.jpg){#fig-phone-pouch-position fig-alt="Phone pouch attached to the backpack" fig-align="center"}
+
+## Panel assembly
+
+Align the backsides of the front and back panels. Sew down the left and right edges from the top to the mesh seam line.
+
+Fold the lower section of the front and back panels up to expose the mesh panels. Pin the mesh panels together along a curving path like a smile. Sew a straight stitch along the curving line. Trim 1 cm beyond the seam. Triple zig-zag stitch the seam allowance.
+
+Note: It might be useful to stabilize the mesh with a wide strip of blue painters tape to sew it. If you're alignment is good as you back stitch the seam, it is easy to peel the tape off with the seam forming a perforation in the tape. Just make sure you peel the tape off before you apply the zip-zag stitching as that makes tape removal extremely difficult.
+
+![Sewing the mesh panels together. This photo of the prototype backpack already has the side seams sewn all the way to the bottom. That's OK, but it probably makes the job harder. Note that the exact shape of the curve doesn't matter.](images/sewing-the-mesh.jpg){#fig-sewing-the-mesh fig-alt="Sewing the mesh panels together. This photo of the prototype backpack already has the side seams sewn all the way to the bottom. That's OK, but probably makes the job harder. Note that the exact shape of the curve doesn't matter." fig-align="center"}
+
+Sew the remaining portion of the left and right edges of the main pouch.
+
+## Accessories
+
+To make a anchor for the backpack's folder flap, fold back 7 cm of the 65 cm piece of 15 mm webbing onto itself and stitch the end for form a 7 cm loop. Thread free end of the webbing into the lower clip of the plastic side-release buckle.

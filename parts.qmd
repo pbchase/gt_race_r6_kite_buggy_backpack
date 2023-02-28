@@ -10,7 +10,7 @@ The main pouch covers the width of the buggy's backplate and the height from the
 
 The backpack requires two 44 x 14 cm mesh panels as shown in @fig-backpack-mesh-panel to form the mesh floor of the main pouch.
 
-![Backpack mesh panels - two pieces are required](images/backpack-mesh-panel.jpg){#fig-backpack-mesh-panel fig-alt="Backpack mesh panels - two pieces are required" fig-align="center"}
+![Backpack mesh panels - two pieces are required](images/backpack-mesh-panel.jpg){#fig-backpack-mesh-panel fig-alt="Backpack mesh panels - two pieces are required" fig-align="center" width="500"}
 
 ## Hose exits
 
@@ -20,7 +20,7 @@ The hose exits require four 7 cm x 8 cm panels of ripstop nylon, two pieces of 1
 
 ## Fittings
 
-Cut these parts from 5/8" (15mm) Bluewater climb-spec tubular webbing
+Cut these parts from 340 cm of 5/8" (15mm) Bluewater climb-spec tubular webbing
 
 -   \(1\) 25 cm for connect a plastic side-release buckle to the flap closure
 
@@ -30,7 +30,7 @@ Cut these parts from 5/8" (15mm) Bluewater climb-spec tubular webbing
 
 -   \(1\) 120 cm for upper girth strap
 
--   \(1\) 60 cm to connect the lower clip of the plastic side-release buckle to the rear axle
+-   \(1\) 65 cm to connect the lower clip of the plastic side-release buckle to the rear axle
 
 Also cut these small parts from sewable 2.5 cm-wide hook-and-loop closure strips
 
