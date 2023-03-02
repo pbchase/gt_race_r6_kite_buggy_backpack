@@ -86,4 +86,24 @@ Sew the remaining portion of the left and right edges of the main pouch.
 
 ## Accessories
 
-To make a anchor for the backpack's folder flap, fold back 7 cm of the 65 cm piece of 15 mm webbing onto itself and stitch the end for form a 7 cm loop. Thread free end of the webbing into the lower clip of the plastic side-release buckle.
+### Flap Closure Anchor
+
+To make a anchor for the backpack's folder flap, fold back 7 cm of the 65 cm piece of 15 mm webbing onto itself and stitch the end for form a 7 cm loop. Thread the free end of the webbing into the lower clip of the plastic side-release buckle. See @fig-flap-closure-of-the-backpack
+
+![Flap closure anchor](images/flap-closure-anchor.jpg){#fig-flap-closure-anchor fig-alt="Flap closure anchor" fig-align="center" width="400"}
+
+### Bite Valve Anchors
+
+The bite valve anchors are magnets captured in fabric sewn to a strip of hook-and-look. The large anchor is sized for the seat tube. It can be affixed to the left or right side of any buggy. The small anchor is sized for the seat straps. Those straps are only exposed if the buggy is undressed.
+
+Stitch 39 mm of the hook strip to the backside of the 12 cm loop strip to make the short anchor.
+
+Stitch 3 cm of the hook strip to the backside of the 15 cm loop strip to make the short anchor.
+
+Wrap the 18 mm magnet in a 5 x 5 cm piece of insignia cloth. Test the magnet's polarity against the bite valve anchor that came attached to the water bladder hose. Note which side of the wrapped magnet adheres to the magnet on the hose and mark this side as up. Place the wrapped magnet on the loop side of the strap, right side up, and centered between the ends of the strap. Stitch the ends of the wrapped magnet to the strap. Trim the excess length off the ends of the wrapped magnet leaving 5mm at beyond the seam.
+
+Note: If the magnet's attraction to the sewing machine deck causes issues, slide a few layers of thing cardboard under the strap.
+
+![Bite valve anchors](images/bite-valve-anchors.jpg){#fig-bite-valve-anchors fig-alt="Bite valve anchors" fig-align="center" width="400"}
+
+If additional anchor points are desired, check the polarity of an 18mm magnet against hose's magnet. Mark the up and down sides. Cover the down-side of the magnet with a 2 cm circle of insignia cloth. This should reduce abrasion and galvanic corrosion. Affix the magnet to the center of a 5 cm circle of insignia cloth with the upside against the adhesive. Affix the circle of insignia cloth to the side plates.

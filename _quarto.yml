@@ -12,7 +12,7 @@ book:
     - phone_pouch.qmd
     - parts.qmd
     - assembly.qmd
-    - summary.qmd
+    - installation.qmd
     - references.qmd
 
 bibliography: references.bib
