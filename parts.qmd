@@ -10,7 +10,7 @@ The main pouch covers the width of the buggy's backplate and the height from the
 
 The backpack requires two 44 x 14 cm mesh panels as shown in @fig-backpack-mesh-panel to form the mesh floor of the main pouch.
 
-![Backpack mesh panels - two pieces are required](images/backpack-mesh-panel.jpg){#fig-backpack-mesh-panel fig-alt="Backpack mesh panels - two pieces are required" fig-align="center" width="500"}
+![Backpack mesh panels - two pieces are required](images/backpack-mesh-panel.jpg){#fig-backpack-mesh-panel fig-alt="Backpack mesh panels - two pieces are required" fig-align="center" width="400"}
 
 ## Hose exits
 
@@ -54,12 +54,12 @@ Purchase six 3 mm x 15 mm marine grade welded stainless-steel rings: Two for eac
 
 Purchase one plastic side-release buckle for 2 cm strap.
 
-Purchase 2 or more of 18 mm x 3 mm nickel-plated neodymium magnets
+Purchase 2 or more of 18 mm x 3 mm nickel-plated neodymium magnets.
 
 Cut 20 cm of 1mm line to thread the center hanger into the top of the bladder.
 
 Cut a dirt-out flap of 38 x 8 cm panel from brightly-colored ripstop nylon.
 
-Make a custom dogbone to connect the bladder to the loop of the center hanger. Turn the wood according to @fig-dogbone-diagram Sand the whole piece but pay special attention the tapered end and the cylindrical 8mm diameter section. That will assure the dogbone can slide in and back out with ease.
+Make a custom dogbone to connect the bladder to the loop of the center hanger. Turn the wood according to @fig-dogbone-diagram Sand the whole piece but pay special attention to the tapered end and the cylindrical 8mm diameter section. That will assure the dogbone can slide in and back out with ease.
 
 ![Diagram of dogbone](images/dogbone-diagram.jpg){#fig-dogbone-diagram}

@@ -4,37 +4,37 @@ title: "Description"
 
 The body of the backpack is a long tube open on both ends. The bottom of this tube has a full with hook-and-loop closure. Above that is a false floor made of mesh. The mesh floor and the full-width hook-and-loop closure allow sand and other debris to fall away from the compartment and be easily removed. The dirt out includes a nylon flap that can be pulled out of the opening to prevent the hook-and-loop closure from re-closing while cleaning.
 
-![False floor and dirt-out of the main compartment. The yellow fabric can be pulled out of the opening during cleaning to keep the hook-and-loop closure open.](images/main_dirt_out.jpg){fig-alt="False floor and dirt-out of the main compartment"}
+![False floor and dirt-out of the main compartment. The yellow fabric can be pulled out of the opening during cleaning to keep the hook-and-loop closure open.](images/main_dirt_out.jpg){fig-alt="False floor and dirt-out of the main compartment" width="650"}
 
 Above the mesh floor is the main storage area of the backpack. This area holds a 3 L water bladder. The backpack is designed specifically around the [3 Liter Hydraulics® Reservoir](https://www.osprey.com/us/en/product/3-liter-hydraulics-reservoir-3LRES_649.html) from [Osprey](https://www.osprey.com). This bladder is designed to be hung from the upper clip, so the backpack is designed accordingly. The water bladder is hung in the center of the main storage area. It occupies about 1/2 the width of this compartment allowing for additional storage left and right of the bladder as well as on top of the bladder.
 
-![Osprey 3 Liter Hydraulics Reservoir](images/hydraulicsreservoir3l_side_blue.jpg){fig-alt="Osprey 3 Liter Hydraulics Reservoir" fig-align="left" width="207"}
+![Osprey 3 Liter Hydraulics Reservoir](images/osprey-hydraulics-reservoir-3l.jpg){fig-alt="Osprey 3 Liter Hydraulics Reservoir" fig-align="center" width="650"}
 
-![Water bladder installed in the backpack. The flap closure has been rolled down in this photo to allow a clearer view of the interior.](images/water_bladder_in_place.jpg){fig-alt="Water bladder installed in the backpack" fig-align="right" width="4032"}
+![Water bladder installed in the backpack. The flap closure has been rolled down in this photo to allow a clearer view of the interior.](images/water_bladder_in_place.jpg){fig-alt="Water bladder installed in the backpack" fig-align="center" width="650"}
 
 The upper portion of the tube is folded down to form a flap closure for the backpack. The flap is tri-folded, then folded down and clip to an adjustable strap attached to the rear axle.
 
-![Flap closure of the backpack](images/backpack_rear_view.jpg){#fig-flap-closure-of-the-backpack fig-alt="Flap closure of the backpack" fig-align="center"}
+![Flap closure of the backpack](images/backpack_rear_view.jpg){#fig-flap-closure-of-the-backpack fig-alt="Flap closure of the backpack" fig-align="center" width="650"}
 
 ## Hose routing
 
 The backpack provides routes out the top of the backpack for the water bladder's hose. The routes are at the top of the backpack left and right of the center line. The two routes support the bladder's option to route the hose up the left or right side of the bladder. Each route has a draw string to seal the opening tightly around the hose to reduce the risk of water and sand intrusion.
 
-![Route of the bladder's hose out of the backpack](images/hose_routing.jpg){fig-alt="Route of the bladder's hose out of the backpack" fig-align="center"}
+![Route of the bladder's hose out of the backpack](images/hose_routing.jpg){fig-alt="Route of the bladder's hose out of the backpack" fig-align="center" width="650"}
 
 The free end of the hose needs to be readily available to the pilot. Osprey's bladder hoses include a magnet that can be used to tether the bit-valve end of the hose with a second magnet. To coordinate with this, the buggy can be equipped with one or more magnets along the frame on the pilot's preferred side for the hose.
 
-![Magnets on the buggy frame help hold the hose and bite-valve in place](images/magnets_on_the_buggy_frame.jpg){fig-alt="Magnets on the buggy frame help hold the hose and bite-valve in place"}
+![Magnets on the buggy frame help hold the hose and bite-valve in place](images/magnets_on_the_buggy_frame.jpg){fig-alt="Magnets on the buggy frame help hold the hose and bite-valve in place" width="650"}
 
 ## Supporting the backpack
 
 The backpack is hung from via a single strap at the top center of the buggy's back-plate. This strap pierces the top seam of the backpack and directly supports the weight of the water bladder. A loop of webbing passes through slide opening of the bladder. The loop is pinned in place by a dogbone.
 
-![A dogbone holds a loop of webbing in place to hold support the bladder](images/dogbone.jpg){fig-alt="A dogbone holds a loop of webbing in place to hold support the bladder" fig-align="center"}
+![A dogbone holds a loop of webbing in place to hold support the bladder](images/dogbone.jpg){fig-alt="A dogbone holds a loop of webbing in place to hold support the bladder" fig-align="center" width="650"}
 
 The body of the backpack is held down and stabilized laterally by a pair of straps sewn to the underside that girth the buggy backplate and are cinched down tight to it. One strap is high on the backplate while the other is very low.
 
-![Girth straps on the underside of the backpack](images/girth_straps.jpg){fig-alt="Girth straps on the underside of the backpack" fig-align="center"}
+![Girth straps on the underside of the backpack](images/girth_straps.jpg){fig-alt="Girth straps on the underside of the backpack" fig-align="center" width="650"}
 
 ## Phone pouch
 

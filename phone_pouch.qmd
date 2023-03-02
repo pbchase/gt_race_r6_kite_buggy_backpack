@@ -44,7 +44,7 @@ Also cut these parts
 3.  At the center of the top edge, on the face, overlap about 2 cm of the 14 cm long hook strip on top of the face. Orient the hook strip hook-side down. Stitch all four edges of the 2 cm over overlap. See @fig-phone-pouch-upper-bottom-panel-detail
 4.  Orient the bottom panel face up, and top edge up. On the top left corner, orient a 3cm loop strip vertically, fuzzy side out. Stitch all four edges to the loop strip. See @fig-phone-pouch-upper-bottom-panel-detail
 
-![Bottom panel detail at top](images/phone-pouch-upper-bottom-panel-detail.jpg){#fig-phone-pouch-upper-bottom-panel-detail fig-alt="Bottom panel detail at top" fig-align="center"}
+![Bottom panel detail at top](images/phone-pouch-upper-bottom-panel-detail.jpg){#fig-phone-pouch-upper-bottom-panel-detail fig-alt="Bottom panel detail at top" fig-align="center" width="500"}
 
 ### Top panel
 
@@ -52,9 +52,9 @@ Also cut these parts
 2.  Orient the top panel face up, top up. At the top left corner of the panel, orient the 3 cm hook strip, hook side up as shown in @fig-phone-pouch-upper-top-panel-detail Stitch all four edges of the loop strip.
 3.  Orient the top panel face up, top up. At the bottom center of the panel, orient the 9 cm loop strip vertically, fuzzy side up, with one end aligned with the bottom edge. Stitch all four edges of the loop strip.
 
-![Top panel detail at top](images/phone-pouch-upper-top-panel-detail.jpg){#fig-phone-pouch-upper-top-panel-detail fig-alt="Top panel detail at top"}
+![Top panel detail at top](images/phone-pouch-upper-top-panel-detail.jpg){#fig-phone-pouch-upper-top-panel-detail fig-alt="Top panel detail at top" width="500"}
 
-![Top panel detail at bottom](images/phone-pouch-lower-top-panel-detail.jpg){#fig-phone-pouch-lower-top-panel-detail fig-alt="Top panel detail at bottom"}
+![Top panel detail at bottom](images/phone-pouch-lower-top-panel-detail.jpg){#fig-phone-pouch-lower-top-panel-detail fig-alt="Top panel detail at bottom" width="500"}
 
 ### Assemble the panels
 
@@ -65,7 +65,7 @@ Also cut these parts
 5.  Mark a curving line on the mesh/blue tape as shown in @fig-joining-the-mesh-panels the bottom of the line should be about 6 cm below the stitch line that joins the mesh to the pouch panel.
 6.  Stitch along the marked line.
 
-![Joining the mesh panels](images/joining-the-mesh-panels.jpg){#fig-joining-the-mesh-panels fig-alt="Joining the mesh panels" fig-align="center"}
+![Joining the mesh panels](images/joining-the-mesh-panels.jpg){#fig-joining-the-mesh-panels fig-alt="Joining the mesh panels" fig-align="center" width="500"}
 
 7.  Peel away the blue tape from both side of the stitch line.
 8.  Trim off the excess mesh beyond the stitch line.
@@ -77,4 +77,4 @@ Most of the details of the construction are visible in the completed phone pouch
 
 Mark the flap closure's fold line 12 cm below the upper finished edge of the pouch. Crease this line with a warm iron. Fold each corner of the flap closure and crease it with a warm iron as shown in @fig-phone-pouch-open The hook-and-loop tabs should align when the corners are folded.
 
-![Fully opened phone pouch](images/phone-pouch-open.jpg){#fig-phone-pouch-open fig-alt="Fully opened phone pouch" fig-align="center"}
+![Fully opened phone pouch](images/phone-pouch-open.jpg){#fig-phone-pouch-open fig-alt="Fully opened phone pouch" fig-align="center" width="500"}
