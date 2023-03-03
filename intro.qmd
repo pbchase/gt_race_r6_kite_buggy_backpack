@@ -1,6 +1,6 @@
 # Introduction
 
-This is a book a guide for building a backpack for the GT-Race R6 kite buggy designed and built by Martin Faber (see http://www.gt-race.nl/). While Martin designs and builds the buggy, the backpack is designed by Philip Chase, Errol Hartbarger, and Susan Chase.
+This is a book a guide for building a backpack for the GT-Race R6 kite buggy designed and built by Martin Faber (see http://www.gt-race.nl/). While Martin designs and builds the buggy, the backpack was designed by Philip Chase, Errol Hartbarger, and Susan Chase.
 
 ![Right rear view of the backpack loaded with gear](images/backpack_right_rear_view_loaded.jpg){fig-alt="right rear view of backpack loaded with gear" fig-align="center" width="650"}
 
