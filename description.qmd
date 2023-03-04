@@ -39,3 +39,11 @@ The body of the backpack is held down and stabilized laterally by a pair of stra
 ## Phone pouch
 
 The backpack has a much smaller pouch suitable for a phone affixed to the back of the backpack. The pouch has the same structure as main pouch with the tubular body, the full width hook-and-loop closure, the mesh false floor and the flap closure. The phone pouch is affixed just below the fold of the main pouch. It is largely covered by the flap of the main pouch as shown in @fig-flap-closure-of-the-backpack
+
+## Resizing
+
+The GT-Race R6 buggy is available in 3 sizes: small, medium, and large. The variation between the sizes is the width of the back plate and the dressing plate mounted on top of it. Each backplate can also be configured to a narrow or wide setting. The published dimension for each buggy is width between side rails surrouding the back plate when the back plate is set in the narrow position. Those widths are 40 cm, 43 cm, and 46 cm, respectively for the small, medium, and large buggies. The prototype backpack was designed to match the 40 cm width of the narrow setting of a small back plate. All of the diagrams and text assume this width. Where it is needed to resize the backpack for a larger buggy, those diagrams will be followed by a note like this:
+
+::: resizing
+Resizing note: The width dimension above should be tailored to the buggy size. S:42, M:45, L:48
+:::

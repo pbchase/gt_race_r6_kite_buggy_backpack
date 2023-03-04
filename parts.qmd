@@ -6,11 +6,19 @@ The main pouch covers the width of the buggy's backplate and the height from the
 
 ![Backpack main panels](images/backpack-main-panels.jpg){#fig-backpack-main-panels fig-alt="Backpack main panels" fig-align="center"}
 
+::: resizing
+Resizing note: The width dimension of the panels above should be tailored to the buggy size. S:42, M:45, L:48
+:::
+
 ## Mesh floor
 
 The backpack requires two 44 x 14 cm mesh panels as shown in @fig-backpack-mesh-panel to form the mesh floor of the main pouch.
 
 ![Backpack mesh panels - two pieces are required](images/backpack-mesh-panel.jpg){#fig-backpack-mesh-panel fig-alt="Backpack mesh panels - two pieces are required" fig-align="center" width="400"}
+
+::: resizing
+Resizing note: The width dimension of the mesh panelshould be tailored to the buggy size. S:44, M:47, L:50
+:::
 
 ## Hose exits
 
@@ -26,15 +34,27 @@ Cut these parts from 340 cm of 5/8" (15mm) Bluewater climb-spec tubular webbing
 
 -   \(1\) 35 cm for the center hanger
 
+-   \(1\) 120 cm for upper girth strap
+
+::: resizing
+Resizing note: The upper girth strap should be tailored to the buggy size. S:120, M:126, L:132
+:::
+
 -   \(1\) 105 cm for lower girth strap
 
--   \(1\) 120 cm for upper girth strap
+::: resizing
+Resizing note: The lower girth strap should be tailored to the buggy size. S:105, M:111, L:117
+:::
 
 -   \(1\) 65 cm to connect the lower clip of the plastic side-release buckle to the rear axle
 
 Also cut these small parts from sewable 2.5 cm-wide hook-and-loop closure strips
 
 -   Dirt-out closure: a matched pair of strips 38 cm long
+
+::: resizing
+Resizing note: The dirt-out closure should be tailored to the buggy size. S:38, M:41, L:44
+:::
 
 -   Tri-fold closure: a matched pair of strips 5 cm long
 
@@ -59,6 +79,10 @@ Purchase 2 or more of 18 mm x 3 mm nickel-plated neodymium magnets.
 Cut 20 cm of 1mm line to thread the center hanger into the top of the bladder.
 
 Cut a dirt-out flap of 38 x 8 cm panel from brightly-colored ripstop nylon.
+
+::: resizing
+Resizing note: The dirt-out flap should be tailored to the buggy size. S:38, M:41, L:44
+:::
 
 Make a custom dogbone to connect the bladder to the loop of the center hanger. Turn the wood according to @fig-dogbone-diagram Sand the whole piece but pay special attention to the tapered end and the cylindrical 8mm diameter section. That will assure the dogbone can slide in and back out with ease.
 
