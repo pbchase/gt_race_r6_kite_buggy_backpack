@@ -13,3 +13,18 @@
 .resizing {
   @include resizing-class;
 }
+
+@mixin option-b-class {
+  color: grey;
+  font-style: italic;
+
+  & > p {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+// Use the mixin to create a custom class
+.option-b {
+  @include option-b-class;
+}

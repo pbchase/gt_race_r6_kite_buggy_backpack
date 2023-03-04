@@ -47,3 +47,11 @@ The GT-Race R6 buggy is available in 3 sizes: small, medium, and large. The vari
 ::: resizing
 Resizing note: The width dimension above should be tailored to the buggy size. S:42, M:45, L:48
 :::
+
+## Option B
+
+The flap closure of the prototype might not be the best way to keep everything dry. To experiment, version 4, Errol's backpack will use a longer flap that extends the full length of the bag. We'll preserve the original closure option on the longer flap, but we'll include buckles at the left and right corners of the end of the flap to allow the opening to be stretched flat across the bottom of the backpack. We'll refer to the original closure as *Option A*. The longer flap with the added side buckles will be termed *Option B.* Look for notes like this for Option B instructions:
+
+::: option-b
+Option B note: The height dimension should be adjusted for the closure. A:42, B:45
+:::

@@ -10,6 +10,14 @@ The main pouch covers the width of the buggy's backplate and the height from the
 Resizing note: The width dimension of the panels above should be tailored to the buggy size. S:42, M:45, L:48
 :::
 
+::: option-b
+Option B note: The height dimensions should be adjusted for the closure option used.
+
+-   Upper back panel height - A:35, B:44
+
+-   Front panel height - A:77, B:86.
+:::
+
 ## Mesh floor
 
 The backpack requires two 44 x 14 cm mesh panels as shown in @fig-backpack-mesh-panel to form the mesh floor of the main pouch.
@@ -30,7 +38,7 @@ The hose exits require four 7 cm x 8 cm panels of ripstop nylon, two pieces of 1
 
 Cut these parts from 340 cm of 5/8" (15mm) Bluewater climb-spec tubular webbing
 
--   \(1\) 25 cm for connect a plastic side-release buckle to the flap closure
+-   \(1\) 25 cm for connecting a plastic side-release buckle to the flap closure
 
 -   \(1\) 35 cm for the center hanger
 
@@ -47,6 +55,10 @@ Resizing note: The lower girth strap should be tailored to the buggy size. S:105
 :::
 
 -   \(1\) 65 cm to connect the lower clip of the plastic side-release buckle to the rear axle
+
+::: option-b
+Option B note: cut (2) 10cm for connecting two plastic side-release buckles to the corners of the flap closure. Cut and additional 65 cm strap to connect the lower clip of the plastic side-release buckle to the rear axle
+:::
 
 Also cut these small parts from sewable 2.5 cm-wide hook-and-loop closure strips
 
@@ -73,6 +85,10 @@ Cut these small parts from insignia cloth:
 Purchase six 3 mm x 15 mm marine grade welded stainless-steel rings: Two for each girth strap and two for the center hanger.
 
 Purchase one plastic side-release buckle for 2 cm strap.
+
+::: option-b
+Option B note: A:1 buckle, B: 3 buckles
+:::
 
 Purchase 2 or more of 18 mm x 3 mm nickel-plated neodymium magnets.
 

@@ -40,19 +40,27 @@ With the sewing of the hose exists complete, thread each pair of cord ends throu
 
 Trim a 1 cm square from each corner of the back panel assembly. Fold and hem all of the back panel edges.
 
-Align the 38 cm hook strip to the bottom edge of the back panel, center it and sew all four edges to the back panel.
+Align the long hook strip to the bottom edge of the back panel, center it and sew all four edges to the back panel.
 
 Mark the backside of the back panel 11 cm above the bottom edge. Attach one of the mesh panels to the along that marked line with a 1 cm hem above the marked line.
 
-To attach the girth straps to the back panel, mark the face of the back panel at 6 cm and 32 cm below the upper seam. Still on the face, mark the vertical center line of the back panel. Also measure about 10 cm from the vertical center line. Mark the center line on the 120 cm upper girth strap. Align the center line of the upper girth strap with center line of the back panel along the 6 cm mark. Stitch the central 20 cm of the strap to the back panel with a zig-zag stitch. Repeat this process with the 105 cm for lower girth strap along the 32 cm mark. See @fig-attach-the-girth-straps for more detail.
+To attach the girth straps to the back panel, mark the face of the back panel at 6 cm and 32 cm below the upper seam. Still on the face, mark the vertical center line of the back panel. Also measure about 10 cm from the vertical center line. Mark the center line on the upper girth strap. Align the center line of the upper girth strap with center line of the back panel along the 6 cm mark. Stitch the central 20 cm of the strap to the back panel with a zig-zag stitch. Repeat this process for lower girth strap along the 32 cm mark. See @fig-attach-the-girth-straps for more detail.
 
 ![Attach the girth straps to the lower back panel face](images/attach-the-girth-straps.jpg){#fig-attach-the-girth-straps fig-alt="Attach the girth straps to the lower back panel face" width="650"}
+
+::: resizing
+Resizing note: stitched length on the girth straps varies with buggy size. S:20, M:22, L:24
+:::
 
 Attach a pair of 15mm welded stainless steel rings to one end of each girth strip. Pass 2 cm of strap through the pair of rings and stitch the end to the strap with a 6 straight stitch passes.
 
 The back panel's flap closure requires two more pieces that require tricky alignment. Spread out the back panel face up placing the flap closure closest to you. Mark the diagonal construction lines shown in @fig-align-the-flap-closure-fittings. Thread one half of the plastic side-release buckle onto the 25cm piece of webbing. Use the diagonal construction lines to position the webbing on the panel. Stitch the webbing to the panel with a zig-zag stitch. Use the construction lines to position the 5cm hook strip. Stitch all four edges of the 5cm hook strip.
 
 ![Align the flap closure fittings](images/align-the-flap-closure-fittings.jpg){#fig-align-the-flap-closure-fittings fig-alt="Align the flap closure fittings" fig-align="center" width="650"}
+
+::: option-b
+Option B note: The position of the closure fittings is not yet known for Option B.
+:::
 
 ## Front panel
 
@@ -62,17 +70,25 @@ Sew a 5cm loop strip to the top left corner of front panel. Orient the strip hor
 
 ![Loop strip on the top left of the front panel](images/loop-strip-front-panel.jpg){#fig-loop-strip-front-panel fig-alt="Loop strip on the top left of the front panel" fig-align="center" width="400"}
 
-Align the 38 cm loop strip with the long edge of the 38 x 8 cm panel of ripstop nylon. Overlap the ripstop with 1 cm of the loop strip. Sew them together with a straight stitch.
+::: option-b
+Option B note: The position of the closure fittings is not yet known for Option B.
+:::
 
-Align the edge of the 38 cm loop strip to the bottom edge of the front panel, center it and sew all four edges of the loop strip to the back panel.
+Align the long loop strip with the long edge of the dirt-out panel of ripstop nylon. Overlap the ripstop with 1 cm of the loop strip. Sew them together with a straight stitch.
 
-Mark the backside of the front panel 11 cm above the bottom edge. Attach one of the mesh panels to the along that marked line with a 1 cm hem above the marked line.
+Align the edge of the long loop strip to the bottom edge of the front panel, center it and sew all four edges of the loop strip to the back panel.
+
+Mark the backside of the front panel 11 cm above the bottom edge. Attach one of the mesh panels along that marked line with a 1 cm hem above the marked line.
 
 ![Backpack lower interior detail. The back panel of the prototype is shown here. The design has since evolved moving the dirt-out flap to the front panel, but the position of the mesh and hook strip are correct.](images/backpack-lower-interior-detail.jpg){#fig-backpack-lower-interior-detail fig-alt="Backpack lower interior detail. The back panel of the prototype is shown here. The design has since evolved moving the dirtout flap to the front panel, but the position of the mesh and hook strip are correct" fig-align="center" width="650"}
 
 Mark the face of the front panel 31 cm below the upper finished edge to denote where the main pouch will be folded. Mark the vertical center line of the face of the front panel. Align the top of the closed phone pouch with 31 cm mark centering it on the face of the front panel. As shown in Sew the left and right edges of the phone pouch to the face of the main pouch front panel. Tack the seam at the upper left and right corners.
 
 ![Phone pouch attached to the backpack](images/phone-pouch-position.jpg){#fig-phone-pouch-position fig-alt="Phone pouch attached to the backpack" fig-align="center" width="650"}
+
+::: option-b
+Option B note: The height below the top panel depends on the closure option: A:31, B:40
+:::
 
 ## Panel assembly
 
@@ -93,6 +109,10 @@ Sew the remaining portion of the left and right edges of the main pouch.
 To make a anchor for the backpack's folder flap, fold back 7 cm of the 65 cm piece of 15 mm webbing onto itself and stitch the end for form a 7 cm loop. Thread the free end of the webbing into the lower clip of the plastic side-release buckle. See @fig-flap-closure-of-the-backpack
 
 ![Flap closure anchor](images/flap-closure-anchor.jpg){#fig-flap-closure-anchor fig-alt="Flap closure anchor" fig-align="center" width="500"}
+
+::: option-b
+Option B note: make two for Option B
+:::
 
 ### Bite Valve Anchors
 
