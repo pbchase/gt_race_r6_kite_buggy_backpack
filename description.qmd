@@ -30,7 +30,7 @@ The free end of the hose needs to be readily available to the pilot. Osprey's bl
 
 The backpack is hung from via a single strap at the top center of the buggy's back-plate. This strap pierces the top seam of the backpack and directly supports the weight of the water bladder. A loop of webbing passes through slide opening of the bladder. The loop is pinned in place by a dogbone.
 
-![A dogbone holds a loop of webbing in place to hold support the bladder](images/dogbone.jpg){fig-alt="A dogbone holds a loop of webbing in place to hold support the bladder" fig-align="center" width="650"}
+![A dogbone holds a loop of webbing in place to support the bladder](images/dogbone.jpg){fig-alt="A dogbone holds a loop of webbing in place to support the bladder" fig-align="center" width="650"}
 
 The body of the backpack is held down and stabilized laterally by a pair of straps sewn to the underside that girth the buggy backplate and are cinched down tight to it. One strap is high on the backplate while the other is very low.
 
