@@ -2,7 +2,7 @@
 title: "Description"
 ---
 
-The body of the backpack is a long tube open on both ends. The bottom of this tube has a full with hook-and-loop closure. Above that is a false floor made of mesh. The mesh floor and the full-width hook-and-loop closure allow sand and other debris to fall away from the compartment and be easily removed. The dirt out includes a nylon flap that can be pulled out of the opening to prevent the hook-and-loop closure from re-closing while cleaning.
+The body of the backpack is a long tube open on both ends. The bottom of this tube has a full width hook-and-loop closure. Above that is a false floor made of mesh. The mesh floor and the full-width hook-and-loop closure allow sand and other debris to fall away from the compartment and be easily removed. The dirt out includes a nylon flap that can be pulled out of the opening to prevent the hook-and-loop closure from re-closing while cleaning.
 
 ![False floor and dirt-out of the main compartment. The yellow fabric can be pulled out of the opening during cleaning to keep the hook-and-loop closure open.](images/main_dirt_out.jpg){fig-alt="False floor and dirt-out of the main compartment" width="650"}
 
@@ -12,7 +12,7 @@ Above the mesh floor is the main storage area of the backpack. This area holds a
 
 ![Water bladder installed in the backpack. The flap closure has been rolled down in this photo to allow a clearer view of the interior.](images/water_bladder_in_place.jpg){fig-alt="Water bladder installed in the backpack" fig-align="center" width="650"}
 
-The upper portion of the tube is folded down to form a flap closure for the backpack. The flap is tri-folded, then folded down and clip to an adjustable strap attached to the rear axle.
+The upper portion of the tube is folded down to form a flap closure for the backpack. The flap is tri-folded, then folded down and clipped to an adjustable strap attached to the rear axle.
 
 ![Flap closure of the backpack](images/backpack_rear_view.jpg){#fig-flap-closure-of-the-backpack fig-alt="Flap closure of the backpack" fig-align="center" width="650"}
 
@@ -22,27 +22,27 @@ The backpack provides routes out the top of the backpack for the water bladder's
 
 ![Route of the bladder's hose out of the backpack](images/hose_routing.jpg){fig-alt="Route of the bladder's hose out of the backpack" fig-align="center" width="650"}
 
-The free end of the hose needs to be readily available to the pilot. Osprey's bladder hoses include a magnet that can be used to tether the bit-valve end of the hose with a second magnet. To coordinate with this, the buggy can be equipped with one or more magnets along the frame on the pilot's preferred side for the hose.
+The free end of the hose needs to be readily available to the pilot. Osprey's bladder hoses include a magnet that can be used to tether the bite-valve end of the hose with a second magnet. To coordinate with this, the buggy can be equipped with one or more magnets along the frame on the pilot's preferred side for the hose.
 
 ![Magnets on the buggy frame help hold the hose and bite-valve in place](images/magnets_on_the_buggy_frame.jpg){fig-alt="Magnets on the buggy frame help hold the hose and bite-valve in place" width="650"}
 
 ## Supporting the backpack
 
-The backpack is hung from via a single strap at the top center of the buggy's back-plate. This strap pierces the top seam of the backpack and directly supports the weight of the water bladder. A loop of webbing passes through slide opening of the bladder. The loop is pinned in place by a dogbone.
+The backpack is hung from a single strap at the top center of the buggy's back-plate. This strap pierces the top seam of the backpack and directly supports the weight of the water bladder. A loop of webbing passes through slide opening of the bladder. The loop is pinned in place by a dogbone.
 
 ![A dogbone holds a loop of webbing in place to support the bladder](images/dogbone.jpg){fig-alt="A dogbone holds a loop of webbing in place to support the bladder" fig-align="center" width="650"}
 
-The body of the backpack is held down and stabilized laterally by a pair of straps sewn to the underside that girth the buggy backplate and are cinched down tight to it. One strap is high on the backplate while the other is very low.
+The body of the backpack is held down and stabilized laterally by a pair of straps sewn to its bottom face. The straps girth the buggy backplate and are cinched down tight to it. One strap is high on the backplate while the other is very low.
 
 ![Girth straps on the underside of the backpack](images/girth_straps.jpg){fig-alt="Girth straps on the underside of the backpack" fig-align="center" width="650"}
 
 ## Phone pouch
 
-The backpack has a much smaller pouch suitable for a phone affixed to the back of the backpack. The pouch has the same structure as main pouch with the tubular body, the full width hook-and-loop closure, the mesh false floor and the flap closure. The phone pouch is affixed just below the fold of the main pouch. It is largely covered by the flap of the main pouch as shown in @fig-flap-closure-of-the-backpack
+The backpack has a much smaller pouch suitable for a phone affixed to the back of the backpack. The pouch has the same structure as main pouch with the tubular body, the full width hook-and-loop closure, the mesh false floor, and the flap closure. The phone pouch is affixed just below the fold of the main pouch. It is largely covered by the flap of the main pouch as shown in @fig-flap-closure-of-the-backpack
 
 ## Resizing
 
-The GT-Race R6 buggy is available in 3 sizes: small, medium, and large. The variation between the sizes is the width of the back plate and the dressing plate mounted on top of it. Each backplate can also be configured to a narrow or wide setting. The published dimension for each buggy is width between side rails surrouding the back plate when the back plate is set in the narrow position. Those widths are 40 cm, 43 cm, and 46 cm, respectively for the small, medium, and large buggies. The prototype backpack was designed to match the 40 cm width of the narrow setting of a small back plate. All of the diagrams and text assume this width. Where it is needed to resize the backpack for a larger buggy, those diagrams will be followed by a note like this:
+The GT-Race R6 buggy is available in 3 sizes: small, medium, and large. The variation between the sizes is the width of the back plate and the dressing plate mounted on top of it. Each backplate can also be configured to a narrow or wide setting. The published dimension for each buggy is width between side rails surrounding the back plate when the back plate is set in the narrow position. Those widths are 40 cm, 43 cm, and 46 cm, respectively for the small, medium, and large buggies. The prototype backpack was designed to match the 40 cm width of the narrow setting of a small back plate. All of the diagrams and text assume this width. Where it is needed to resize the backpack for a larger buggy, those diagrams will be followed by a note like this:
 
 ::: resizing
 Resizing note: The width dimension above should be tailored to the buggy size. S:42, M:45, L:48
@@ -50,7 +50,7 @@ Resizing note: The width dimension above should be tailored to the buggy size. S
 
 ## Option B
 
-The flap closure of the prototype might not be the best way to keep everything dry. To experiment, version 4, Errol's backpack will use a longer flap that extends the full length of the bag. We'll preserve the original closure option on the longer flap, but we'll include buckles at the left and right corners of the end of the flap to allow the opening to be stretched flat across the bottom of the backpack. We'll refer to the original closure as *Option A*. The longer flap with the added side buckles will be termed *Option B.* Look for notes like this for Option B instructions:
+The flap closure of the prototype might not be the best way to keep everything dry. To experiment, version 4 will use a longer flap that extends the full length of the bag. It will retain the original closure option, but will add buckles at the left and right corners of the end of the flap to allow the opening to be stretched flat across the bottom of the backpack. We'll refer to the original closure as *Option A*. The longer flap with the added side buckles will be termed *Option B.* Look for notes like this for Option B instructions:
 
 ::: option-b
 Option B note: The height dimension should be adjusted for the closure. A:42, B:45
