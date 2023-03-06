@@ -4,7 +4,7 @@ project:
 book:
   title: "GT-Race R6 Kite Buggy Backpack"
   author: "Philip Chase"
-  date: "2/24/2023"
+  date: "March 5, 2023"
   chapters:
     - index.qmd
     - intro.qmd
