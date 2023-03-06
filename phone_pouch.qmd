@@ -16,7 +16,7 @@ Cut two panels of canvas as shown in @fig-phone-pouch-main-panel The astute read
 
 Also cut these small parts from sewable 2.5 cm-wide hook-and-loop closure strips
 
--   Dirt-out closure: a matched pair of strips 15 cm long
+-   Dirt-out closure: a matched pair of strips 14 cm long
 
 -   Tri-fold closure: a matched pair of strips 3 cm long
 
@@ -24,7 +24,7 @@ Also cut these small parts from sewable 2.5 cm-wide hook-and-loop closure strips
 
 Also cut these parts
 
--   Dirt-out flap: cut a single 8 x 15 cm panel from ripstop nylon
+-   Dirt-out flap: cut a single 8 x 14 cm panel from ripstop nylon
 
 -   Mesh floor: cut 2 panels 11 x 14 cm from any durable mesh fabric
 
@@ -39,7 +39,7 @@ Also cut these parts
 
 ### Bottom panel
 
-1.  Align the 8 x 15 cm nylon dirt-out panel to one long edge of a 15cm strip of hook-and-loop. Overlap the panels about 5mm. Lightly tack the pieces together.
+1.  Align the 8 x 14 cm nylon dirt-out panel to one long edge of a 14cm strip of hook-and-loop. Overlap the panels about 5mm. Lightly tack the pieces together.
 2.  Align to the other edge of the hook-and-loop with the lower hem, centering the hook-and-loop on the pouch panel. Stitch all edges of the hook-and-loop.
 3.  At the center of the top edge, on the face, overlap about 2 cm of the 14 cm long hook strip on top of the face. Orient the hook strip hook-side down. Stitch all four edges of the 2 cm over overlap. See @fig-phone-pouch-upper-bottom-panel-detail
 4.  Orient the bottom panel face up, and top edge up. On the top left corner, orient a 3cm loop strip vertically, fuzzy side out. Stitch all four edges to the loop strip. See @fig-phone-pouch-upper-bottom-panel-detail
@@ -48,7 +48,7 @@ Also cut these parts
 
 ### Top panel
 
-1.  Align a 15 cm piece of hook-and-loop closure with the lower hem, centering the hook-and-loop on the pouch panel. Stitch all edges of the hook-and-loop.
+1.  Align a 14 cm piece of loop strip with the lower hem, centering the loop strip on the pouch panel. Stitch all edges of the loop strip.
 2.  Orient the top panel face up, top up. At the top left corner of the panel, orient the 3 cm hook strip, hook side up as shown in @fig-phone-pouch-upper-top-panel-detail Stitch all four edges of the loop strip.
 3.  Orient the top panel face up, top up. At the bottom center of the panel, orient the 9 cm loop strip vertically, fuzzy side up, with one end aligned with the bottom edge. Stitch all four edges of the loop strip.
 
