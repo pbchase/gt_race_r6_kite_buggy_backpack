@@ -114,9 +114,9 @@ To make a anchor for the backpack's folder flap, fold back 7 cm of the 65 cm pie
 Option B note: make two for Option B
 :::
 
-### Bite Valve Anchors
+### Strapped-on Bite Valve Anchors
 
-The bite valve anchors are magnets captured in fabric sewn to a strip of hook-and-look. The large anchor is sized for the seat tube. It can be affixed to the left or right side of any buggy. The small anchor is sized for the seat straps. Those straps are only exposed if the buggy is undressed.
+The bite valve anchors are magnets captured in fabric sewn to a strip of hook-and-look. When installed, the hook-and-loop strip is wrapped around a portion of the buggy to hold the magnet in place. The large anchor is sized for the seat tube. It can be affixed to the left or right side of any buggy. The small anchor is sized for the seat straps. They can also be affixed om the left or right sides of the buggy, but those straps are only exposed if the buggy is undressed.
 
 Stitch 39 mm of the hook strip to the backside of the 12 cm loop strip to make the short anchor.
 
@@ -128,4 +128,8 @@ Note: If the magnet's attraction to the sewing machine deck causes issues, slide
 
 ![Bite valve anchors](images/bite-valve-anchors.jpg){#fig-bite-valve-anchors fig-alt="Bite valve anchors" fig-align="center" width="500"}
 
-If additional anchor points are desired, check the polarity of an 18mm magnet against hose's magnet. Mark the up and down sides. Cover the down-side of the magnet with a 2 cm circle of insignia cloth. This should reduce abrasion and galvanic corrosion. Affix the magnet to the center of a 5 cm circle of insignia cloth with the upside against the adhesive. Affix the circle of insignia cloth to the side plates.
+### Sticky Bite Valve Anchors
+
+Dressed buggies might need additional anchor points on side dressing. These can be affixed with peel-and-stick insignia cloth. Check the polarity of an 18mm magnet against hose's magnet. Mark the up and down sides. Cover the down-side of the magnet with a 2 cm circle of insignia cloth. This should reduce abrasion and galvanic corrosion. Affix the magnet to the center of a 5 cm circle of insignia cloth with the upside against the adhesive. Affix the circle of insignia cloth to the side plates.
+
+Note: The galvanic corrosion risks arises because the aluminum of the Dibond plate and the nickel-plating of the magnet have different electric potentials. Seawater vastly accelerates this reaction. These magnets should be well-rinsed after any beach trip and checked for corrosion every other year. It's unclear if rinsing can prevent damage to the Dibond plates.
