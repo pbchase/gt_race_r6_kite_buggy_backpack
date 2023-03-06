@@ -5,6 +5,7 @@
 
 /.quarto/
 
+/_site/
 _bookdown_files
 _book
 packages.bib
