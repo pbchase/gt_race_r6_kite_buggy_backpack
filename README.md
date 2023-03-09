@@ -1,6 +1,6 @@
 # GT-Race R6 Kite Buggy Backpack
 
-This is a book a guide for building a backpack for the GT-Race R6 kite buggy designed and built by Martin Faber (see http://www.gt-race.nl/).
+This repository is the source code for a guide for building a backpack for the GT-Race R6 kite buggy designed and built by Martin Faber (see http://www.gt-race.nl/). The book is published at [kite-buggy-backpack.info](https://kite-buggy-backpack.info/ "kite-buggy-backpack.info")
 
 ## About this book
 
