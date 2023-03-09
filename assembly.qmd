@@ -36,7 +36,7 @@ Stitch the in-board side of the hose exit panels from the joined back panels, bu
 
 ![Finish hose exits](images/finish-hose-exits.jpg){#fig-finish-hose-exits fig-alt="Finish hose exits" fig-align="center" width="650"}
 
-With the sewing of the hose exists complete, thread each pair of cord ends through a cord lock. Tie the end of each pair with an over-hand knot to retain the cord lock.
+With the sewing of the hose exits complete, thread each pair of cord ends through a cord lock. Tie the end of each pair with an over-hand knot to retain the cord lock.
 
 Trim a 1 cm square from each corner of the back panel assembly. Fold and hem all of the back panel edges.
 
