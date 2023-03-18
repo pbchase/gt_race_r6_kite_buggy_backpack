@@ -13,6 +13,7 @@ book:
     - parts.qmd
     - assembly.qmd
     - installation.qmd
+    - toolkit.qmd
 
 bibliography: references.bib
 
