@@ -36,11 +36,11 @@ From **Ottertex® Waterproof Canvas**, cut these panels:
 
 -   Main panel: 590 mm x 450 mm
 
--   Lower pockets: 470 mm x 180 mm
+-   Lower pockets: 450 mm x 180 mm
 
 -   Upper pockets: 170 mm x 90 mm
 
--   Adjustable wrench loop: 60 mm x 40 mm
+-   Adjustable wrench loop: 80 mm x 40 mm
 
 From hook and loop closure cut these pieces:
 
@@ -58,7 +58,7 @@ Mark lower pocket panel according to the dimensions on @fig-toolkit-detail
 
 Measure from the unfinished left edge of the lower pocket panel when marking the vertical stitch lines. At each stitch line, measure from the unfinished bottom edge of the lower pocket panel and *add 10mm to each height* to allow for a 1 cm folded hem at the top of this panel.
 
-It will be easier to mark the backside in pencil, but make sure you don't get confused about which edge is the left edge and which edge is the bottom.
+It will be easier to mark the backside in pencil and easier to install the lower pocket backside up.
 
 Connect the dots along the descending slope of the lower pocket panel. Cut along the line to shape the panel. Cut out a 1 cm square from the top right corner of the panel, then hem the top and right edges of the panel.
 
